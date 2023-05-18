@@ -1,7 +1,7 @@
 function hello(str) {
-  const sayHello = `Hello, ${str}`;
-  console.log(sayHello);
-  return sayHello;
+  const hello = "Hello";
+  const world = "World";
+  const sayHello = hello + " " + world;
 }
 
-hello("World");
+hello(sayHello);
