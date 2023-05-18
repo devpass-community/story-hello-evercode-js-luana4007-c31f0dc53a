@@ -3,9 +3,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
-    "jest": "^29.5.0"
+    "jest": "^29.5.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
   },
   "scripts": {
     "test": "jest"
+  },
+  "description": "You're going to practice starting skills that you'll use during your work here.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
   }
 }

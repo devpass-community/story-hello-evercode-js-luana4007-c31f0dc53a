@@ -1,5 +1,7 @@
 function hello(str) {
-    // Add your solution here!
-};
+  const sayHello = `Hello, ${str}`;
+  console.log(sayHello);
+  return sayHello;
+}
 
-module.exports = hello;
+hello("World");
